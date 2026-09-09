@@ -38,7 +38,7 @@ I'm currently building my skills in data analytics and working on practical proj
 ### 🚀 Projects
 
 * 📊 **Superstore Sales & Performance Dashboard**
-  An interactive dashboard focused on analyzing sales, profit, orders, returns, and regional performance using data visualization techniques.
+  An interactive Power BI dashboard focused on analyzing sales, profit, orders, returns, and regional performance using data visualization techniques.
 
 ### 🎓 Education
 
@@ -61,4 +61,4 @@ My goal is to grow as a **Data Analyst**, build real-world projects, and use dat
 
 ### 📫 Connect With Me
 
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/malak-mahmoud-9b50a4371/) • [GitHub](https://github.com/malakmahmoud20)
