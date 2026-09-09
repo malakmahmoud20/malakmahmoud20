@@ -155,13 +155,9 @@ I'm continuously developing my technical and analytical skills and looking forwa
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/malak-mahmoud-9b50a4371/">
-<img src="https://img.shields.io/badge/LinkedIn-Malak_Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-mahmoud-9b50a4371/)
 
-<a href="https://github.com/malakmahmoud20">
-<img src="https://img.shields.io/badge/GitHub-malakmahmoud20-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/malakmahmoud20)
 
 </div>
 
@@ -172,4 +168,3 @@ I'm continuously developing my technical and analytical skills and looking forwa
 ### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 </div>
-
